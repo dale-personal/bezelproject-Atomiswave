@@ -1,14 +1,8 @@
-# bezelproject
+# Overview
 
--------
-OVERVIEW
+This fork is intended to provide bezels without a tv border.
 
-This is a ZIP package compiled by The Bezel Project for use with their automatic downloader/installer.
+## Pre-Requisites
 
-The bezel packs are used in a RetroPie build for providing game bezels.
-
-Thanks go out to AlexDC22 for the original bezel files from which the bezel files here are based.
-
-The graphics in this repository follow the following design.
-
-![Sample bezel](https://github.com/thebezelproject/bezelproject-Atomiswave/blob/master/retroarch/overlay/GameBezels/Atomiswave/basschal.png?raw=true)
+- PowerShell
+- ImageMagick
